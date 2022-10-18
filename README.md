@@ -26,5 +26,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite3" alt="Sqlite3"
     width="40" height="40"/>&nbsp;
     <hr>
-    <h2>✉ Contact: e-mail = jizdsing@gmail.com | 📱 Whatsapp = <a href="https://wa.me/584142383498">+584142384398</a></h2>
+    <h1>✉Contact📞</h1>
+    <h2>📩e-mail = jizdsing@gmail.com | 📱 Whatsapp = <a href="https://wa.me/584142383498">+584142384398</a></h2>
 </div>
