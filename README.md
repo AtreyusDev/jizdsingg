@@ -27,7 +27,7 @@
     width="40" height="40"/>&nbsp;
     <hr>
     <h1>🖊Certificates✅</h1>
-    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-068482e9-727f-4dd1-92e5-6632abf5226a.jpg?v=1666827678000" width="500"/>
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-068482e9-727f-4dd1-92e5-6632abf5226a.jpg?v=1666827678000" width="800"/>
     <hr>
     <h1>✉Contact📞</h1>
     <h2>📩e-mail = jizdsing@gmail.com | 📱 Whatsapp = <a href="https://wa.me/584142383498">+584142384398</a></h2>
