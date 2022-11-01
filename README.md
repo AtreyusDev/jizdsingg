@@ -8,7 +8,7 @@
         many projects / languages and work in a top company.
     </h3>
     <hr>
-    <h3>💎Lenguages & Tools💎</h3>
+    <h3>💎Languages & Tools💎</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django"
