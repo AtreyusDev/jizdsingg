@@ -4,7 +4,7 @@
     <h1 align="center">Welcome to JizDev👋</h1>
     <h3 align="center">
         I´m a passionate backend developer from Venezuela. I'm also a graphic designer
-        and i like the frontend too. I would like to continue learning, working in
+        and I like the frontend too. I would like to continue learning, working in
         many projects / languages and work in a top company.
     </h3>
     <hr>
