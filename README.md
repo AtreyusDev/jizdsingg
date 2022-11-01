@@ -5,7 +5,7 @@
     <h3 align="center">
         I´m a passionate backend developer from Venezuela. I'm also a graphic designer
         and i like the frontend too. I would like to continue learning and working in
-        too many projects and lenguages and work in a top company.
+        too many projects and languages and work in a top company.
     </h3>
     <hr>
     <h3>💎Lenguages & Tools💎</h3>
